@@ -10,5 +10,9 @@ While working many times we have to check EMail sending capabilities and if the 
 + Try hitting the link formed above. The program will tell you the next steps :-)
 
 
+**Note**
++ Special Thanks to PHPMailer, this application uses PHPMailer to send the emails.
+
+
 Thank you
 Bismay
